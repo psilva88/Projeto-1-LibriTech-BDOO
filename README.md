@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/25050a23-0337-49c8-bafd-124edde7c908" alt="AniTrack Logo" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f582938a-61ad-48f6-a34d-17b7be54826d" alt="AniTrack Logo" width="400"/>
 </p>
 
 O grupo foi contratado para desenvolver o LibriTech (vocês podem substituir o nome por outro), um sistema robusto para o gerenciamento de uma biblioteca universitária. Neste projeto, o MySQL não será apenas um depósito de dados; ele atuará como o "cérebro" que protege as regras de negócio e a segurança.O Java servirá como a interface amigável que interage com esse cérebro.
