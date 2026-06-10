@@ -4,3 +4,9 @@ O grupo foi contratado para desenvolver o LibriTech (vocês podem substituir o n
 A equipe deverá aplicar todo o conteúdo visto na disciplina, garantindo que a segurança
 seja imposta pelo banco de dados e não apenas pela interface gráfica.
 
+## 👥 Integrantes do Grupo
+
+- Arthur Pereira Silva
+- Bernardo Ramos dos Santos
+- Rodrigo Lira Rodrigues
+- Luiz Gustavo Barbosa Machado
